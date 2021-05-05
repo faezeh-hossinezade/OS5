@@ -1,5 +1,6 @@
 # OS5
-FAEZEH HOSSINEZADE / tamrin 5 os lab
+#FAEZEH HOSSINEZADE / tamrin 5 os lab
+
 １-	git را config نمایید تا برای هر بار push کردن نیازی به وارد کردن username و password نباشد.
 git config credential.helper store را برای اولین بار که میخواهیم اطلاعات را وارد کنیم، لازم است.
 از دستورgit config credential.helper cache <timeout>  استفاده می کنیم تا برای استفاده کردن بیش از یکبار نیازی نباشد تا تمامی اطلاعات را وارد کنیم. با استفاده از این کد، کش لینوکس فعال می شود و نیازی نیست تا چندین بار یوزرنیم و پسورد را وارد کنیم.
